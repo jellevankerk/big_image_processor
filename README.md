@@ -1,2 +1,1 @@
-# big_image_processor
-code to process big images
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbig%2520size%2F&psig=AOvVaw2zG-wCsJY8MdUOFJmoXdpN&ust=1716821379820000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODRqpXIq4YDFQAAAAAdAAAAABAE
